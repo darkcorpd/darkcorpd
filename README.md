@@ -28,6 +28,13 @@ My goal is to become a full stack data scientist.*
 
 ---
 
+## My Projects:
+
+1. [CV page](https://darkcorpd.github.io/rsschool-cv/)
+2. [Travel landing](https://rolling-scopes-school.github.io/darkcorpd-JSFEPRESCHOOL2022Q2/travel/)
+
+---
+
 ## Skills and Proficiency:
 
 * Excel, VBA, PowerQuery
