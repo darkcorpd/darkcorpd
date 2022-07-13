@@ -13,7 +13,7 @@ Junior Data Scientist
 
 **E-mail:** darkcorpd@gmail.com
 
-**Telegram:** @darkcorp
+**Telegram:** [dr_darkcorp](https://t.me/dr_darkcorp)
 
 **GitHub:** [darkcorpd](https://github.com/darkcorpd/)
 
